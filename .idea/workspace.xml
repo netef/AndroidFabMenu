@@ -6,12 +6,33 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="Main Activity" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="apply:" />
     <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba666100-e926-43ed-9090-82c65086820a" name="Default Changelist" comment="" />
+    <list default="true" id="ba666100-e926-43ed-9090-82c65086820a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FabMenu/src/main/java/com/jackfef/fabmenu/FabMenu.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/jackfef/fabmenu/FabMenu.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/FabMenu/FabMenu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/FabMenu/FabMenu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FabMenu/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FabMenu/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FabMenu/src/main/java/com/jackfef/fabmenu/Something.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jackfef/fabmenu/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jackfef/fabmenu/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +51,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -42,9 +70,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android-custom-viewC:/Users/netef/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.1.0/7ba5bcd622e3d6d7ab6b9833717c4385e4ba0a51/material-1.1.0-sources.jar!/com/google/android/material/floatingactionbutton/FloatingActionButton.java_SELECTED" value="FloatingActionButton" />
+    <property name="android-custom-viewC:/Users/netef/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_SELECTED" value="View" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="multi-representation-previewC:/Users/netef/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.1.0/7ba5bcd622e3d6d7ab6b9833717c4385e4ba0a51/material-1.1.0-sources.jar!/com/google/android/material/floatingactionbutton/FloatingActionButton.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/netef/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_selected" value="Custom views" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.jackfef.fabmenu" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -120,21 +155,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1618" height="290" key="GridCell.Tab.0.bottom" timestamp="1586704973390">
+    <state x="2500" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1586722126832">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1618" height="290" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586704973390" />
-    <state width="1618" height="290" key="GridCell.Tab.0.center" timestamp="1586704973389">
+    <state x="2500" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586722126832" />
+    <state x="2427" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586723612659">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1618" height="290" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586704973389" />
-    <state width="1618" height="290" key="GridCell.Tab.0.left" timestamp="1586704973389">
+    <state x="2427" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586723612659" />
+    <state width="1618" height="290" key="GridCell.Tab.0.bottom" timestamp="1586721480761">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1618" height="290" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586704973389" />
-    <state width="1618" height="290" key="GridCell.Tab.0.right" timestamp="1586704973389">
+    <state width="1618" height="290" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586721480761" />
+    <state width="1618" height="290" key="GridCell.Tab.0.center" timestamp="1586721480761">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1618" height="290" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586704973389" />
+    <state width="1618" height="290" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586721480761" />
+    <state width="1618" height="290" key="GridCell.Tab.0.left" timestamp="1586721480761">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1618" height="290" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586721480761" />
+    <state width="1618" height="290" key="GridCell.Tab.0.right" timestamp="1586721480761">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1618" height="290" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586721480761" />
+    <state x="2339" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1586722564598">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2339" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680/1920.0.1680.1010@1920.0.1680.1010" timestamp="1586722564598" />
   </component>
 </project>
